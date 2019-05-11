@@ -1,4 +1,6 @@
-# gtk3_my_themes
-GTK3 Theme for Centos 7
+# GTK3 Theme for Centos 7
 
-Repositorio de GTK3 Temas.
+Selección de Temas GTK3 para CentOs 7 con versión de Gnome 3.28
+
+## Tabla de Contenido
+- Deepin Theme [a link] (DeepinTheme)
